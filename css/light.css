@@ -1,0 +1,182 @@
+.page {
+  background-color: #fff;
+  color: #030303;
+}
+
+.header {
+  background-color: #fff;
+}
+.header__menu span {
+  background-color: #030303;
+}
+.header__menu span::after, .header__menu span::before {
+  background-color: #030303;
+}
+
+.search-header__input {
+  background-color: #fff;
+  border-color: #cccccc;
+}
+
+.search-header__input::-webkit-input-placeholder {
+  font-weight: 400;
+}
+
+.search-header__input::-moz-placeholder {
+  font-weight: 400;
+}
+
+.search-header__input:-ms-input-placeholder {
+  font-weight: 400;
+}
+
+.search-header__input::-ms-input-placeholder {
+  font-weight: 400;
+}
+
+.search-header__input::placeholder {
+  font-weight: 400;
+}
+
+.search-header__btn {
+  border-color: #cccccc;
+  background-color: #f8f8f8;
+}
+
+.search-header__block {
+  background-color: #fff;
+  border-color: #cccccc;
+}
+
+.header__micro {
+  background-color: #f9f9f9;
+}
+
+.sidebar__item-descr {
+  color: #030303;
+}
+
+.sidebar__descr-text span {
+  color: #030303 !important;
+}
+
+.sidebar__descr-text span:last-child a {
+  color: #030303;
+}
+
+.youtube-premium {
+  -webkit-box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.23);
+  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.23);
+  background-color: #fff;
+}
+
+.youtube-premium__text span:last-child {
+  color: #030303;
+}
+
+.youtube-premium__link--skip {
+  color: #030303;
+}
+
+.author-video__subscribers {
+  color: #030303;
+}
+
+.video__likes {
+  background-color: #f9f9f9;
+}
+
+.video__like:hover {
+  background-color: #e4e4e4;
+}
+
+.video__dislike:hover {
+  background-color: #e4e4e4;
+}
+
+.video__btn {
+  background-color: #f9f9f9;
+}
+
+.video__btn:hover {
+  background-color: #e4e4e4;
+}
+
+.video__descr-info {
+  color: #030303;
+}
+
+.video__descr-text p {
+  color: #030303;
+}
+
+.video__descr {
+  background-color: #f9f9f9;
+}
+
+.video__comments-btn {
+  color: #030303;
+}
+
+.comments-list__reply {
+  color: #030303;
+}
+
+.comments-list__like {
+  color: #030303;
+}
+
+.video__name {
+  background-color: #d6d6d6;
+}
+
+.video__comments-label {
+  color: #606060;
+  border-color: #e5e5e5;
+}
+
+.comments-list__author span:last-child {
+  color: #606060;
+}
+
+.hero-premium__btn {
+  background-color: #065fd4;
+  color: #fff;
+}
+
+.hero-premium__link a {
+  color: #065fd4;
+}
+
+.hero-premium__more a {
+  color: #065fd4;
+}
+
+.features__item {
+  color: #030303;
+}
+
+.features__item p {
+  color: #606060;
+}
+
+.faq__content {
+  color: #030303;
+}
+
+.faq__content-item {
+  border-color: #e5e5e5;
+}
+
+.faq__text {
+  color: #606060;
+}
+
+.faq__button svg {
+  fill: #030303;
+}
+
+.faq__footer {
+  color: #030303;
+}
+/*# sourceMappingURL=light.css.map */
